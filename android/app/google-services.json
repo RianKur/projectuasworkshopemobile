@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164033469255",
+    "project_id": "kulineria-7ad84",
+    "storage_bucket": "kulineria-7ad84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164033469255:android:df5589750cd1ad082d8a62",
+        "android_client_info": {
+          "package_name": "com.example.kulineria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164033469255-cjciltics6a29cl59ida49oif1328f6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA09vQuEjEv2Zgx_I1VZVG2N4O-_Z40HXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164033469255-cjciltics6a29cl59ida49oif1328f6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

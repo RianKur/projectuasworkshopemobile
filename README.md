@@ -1,7 +1,12 @@
 # Kulineria App - By Ryan Kurniawan
 
 A new Flutter project.
+---
+![1](https://user-images.githubusercontent.com/77041196/185809811-03996da4-76f1-4bb6-90d2-9ab4924b870e.jpeg)
 
+![2](https://user-images.githubusercontent.com/77041196/185809821-22d4fd56-e550-4630-b4d1-b0b54a62616d.jpeg)
+
+![3](https://user-images.githubusercontent.com/77041196/185809828-66000f8d-f215-4b7a-82d0-9ad083e94962.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
